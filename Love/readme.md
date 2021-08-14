@@ -1,8 +1,8 @@
 ![](img/logo.png)
 
-#Love - Easy Windows
+# Love - Easy Windows
 
-##Enumeration
+## Enumeration
 
 To start, run an nmap scan:
 
@@ -326,7 +326,7 @@ END_TIME: Sat Aug 14 21:51:10 2021
 DOWNLOADED: 18448 - FOUND: 47
 ```
 
-##Web Investigation
+## Web Investigation
 nmap gave us three ports with apache server listening on. These were 80, 443 and 5000
 
 Checking out these sites
