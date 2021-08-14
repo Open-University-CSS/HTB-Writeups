@@ -1,6 +1,7 @@
 ![](img/logo.png)
 
 # Love - Easy Windows
+# Walkthrough by P0z0x
 
 ## Enumeration
 
