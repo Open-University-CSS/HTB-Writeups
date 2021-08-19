@@ -523,7 +523,7 @@ Transfering the msi as we did for winPEAS, then we can start a netcat listener o
 
 ![](img/root.png)
 
-We have a shell as `n authority\system` so let's get the root flag.
+We have a shell as `nt authority\system` so let's get the root flag.
 
 ![](img/rootflag.png)
 
